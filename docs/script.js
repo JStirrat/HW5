@@ -1,3 +1,8 @@
+// John Stirrat
+// CPSC 332 Web Development
+// HW5 - Breakout App
+// Last Modified 11/7/22
+
 var color1 = "#FFFFFF";
 var color2 = "#C9292C";
 
