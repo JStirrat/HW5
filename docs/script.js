@@ -343,11 +343,6 @@ window.onload = function () {
     //function to reset the board and continue playing (accumulate high score)
     //should make sure we didn't lose before accumulating high score
     function continuePlaying() {
-        console.log("continue")
-        console.log(win)
-        console.log(lose)
-
-
         if (!lose) {
             high_score += score
             resetBoard(lives)
